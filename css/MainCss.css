@@ -46,6 +46,7 @@ a {
 	text-decoration:underline;
 	margin-left:15%;
 	font-size:120%;
+    margin-bottom:-40px;
 }
 #Buttons {
 	display:inline;
