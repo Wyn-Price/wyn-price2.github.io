@@ -3,7 +3,14 @@
 	font-family: Courier New, Courier, monospace;
 }
 a {
-	text-decoration:none;	
+	text-decoration:none;
+    color:black
+}
+a:visited{
+    color:black
+}
+a:hover{
+    font-size: 200%
 }
 #Center {
     text-align:center;
