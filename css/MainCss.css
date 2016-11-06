@@ -10,7 +10,7 @@ a:visited{
     color:black
 }
 a:hover{
-    font-size: 200%
+    color:yellow
 }
 #Center {
     text-align:center;
